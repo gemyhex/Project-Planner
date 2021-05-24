@@ -1,0 +1,34 @@
+{
+  "plans": [
+    {
+      "id": 1,
+      "title": "Create new website updated",
+      "details": "lorem ipsum 100",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "Create new website",
+      "details": "lorem100",
+      "completed": true
+    },
+    {
+      "title": "asasd",
+      "details": "asfdga",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "title": "asdfa",
+      "details": "fafwef",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "afsdf",
+      "details": "wgega ",
+      "completed": false,
+      "id": 5
+    }
+  ]
+}
